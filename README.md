@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL Server e Python**
 
-- 👯 Também compartilho meus projetos [LinkedIN](https://www.linkedin.com/in/viannadev/)
+- 👯 Também compartilho meus projetos no [LinkedIn](https://www.linkedin.com/in/viannadev/)
 
 - 👨‍💻 Todos os meus projetos disponíveis em [https://sites.google.com/view/viannaanalyst](https://sites.google.com/view/viannaanalyst)
 
